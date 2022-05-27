@@ -1,0 +1,2 @@
+Sellers can list their assets by instantiating an asset transfer smart contract. 
+Buyers can make offers by taking an action on the smart contract, and other parties can take actions to inspect or appraise the asset. Once the asset is marked both inspected and appraised, the buyer and seller will confirm the sale again before the contract is set to complete.
